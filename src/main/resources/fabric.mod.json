@@ -10,7 +10,7 @@
   "contact": {
     "repo": ""
   },
-  "icon": "assets/5c/logo.png",
+  "icon": "assets/template/icon.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [
