@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "the5cgrim",
+  "version": "${version}",
+  "name": "Lokfid's Skidded Disabler",
+  "description": "Skidded GrimAC disabler for 1.20.4",
+  "authors": [
+    "Lokfid"
+  ],
+  "contact": {
+    "repo": ""
+  },
+  "icon": "assets/template/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "codes.pristine.addon.Addon"
+    ]
+  },
+  "custom": {
+    "meteor-client:color": "225,25,25"
+  },
+  "depends": {
+    "java": ">=17",
+    "minecraft": ">=${mc_version}",
+    "meteor-client": "*"
+  }
+}
