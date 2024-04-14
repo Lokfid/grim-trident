@@ -4,7 +4,7 @@ allows user to disabler GrimAC movement checks using riptide 3 trident
 
 (this repo contains files for 1.20.4)
 
-###Official yt tutorial for this repo [here](https://www.youtube.com/watch?v=RQ_mNMvEht8)
+### Official yt tutorial for this repo [here](https://www.youtube.com/watch?v=RQ_mNMvEht8)
 
 ### How to use 
 - build the mod or download it from [here](https://github.com/ImNotDeadYet/grim-trident/releases/tag/1.0.1) for 1.20.4
