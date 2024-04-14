@@ -5,7 +5,7 @@ allows user to disabler GrimAC movement checks using riptide 3 trident
 (this repo contains files for 1.20.4)
 
 ### How to use 
-- build the mod
+- build the mod or download it from [here](https://github.com/ImNotDeadYet/grim-trident/releases/tag/1.0.1) for 1.20.4
 - install meteor 1.20.4
 - put disabler and meteor in the mods folder
 - run minecraft and check `DisableGrim` and TridentDelay to `0`
