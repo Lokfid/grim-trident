@@ -1,6 +1,6 @@
 # GrimAC disabler
 
-allows user to disabler GrimAC movement checks using riptide 3 trident
+allows user to disable GrimAC movement checks using riptide 3 trident
 
 (this repo contains files for 1.20.4)
 
